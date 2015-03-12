@@ -1,0 +1,5 @@
+IPSec gateway <VPN Host>
+IPSec ID <VPN GroupID>
+IPSec secret <VPN Group Shared Secret>
+Xauth username <username>
+Xauth password
